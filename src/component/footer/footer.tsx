@@ -6,7 +6,7 @@ import YouTubeIcon from '@mui/icons-material/YouTube';
 const Footer = () => {
     return (
         <Box padding={'20px'}
-        sx={{display:"flex",justifyContent:'space-between',alignItems:'center',backgroundColor:'primary.main',color:'white'}}>
+        sx={{display:"flex",justifyContent:'space-between',alignItems:'center',backgroundColor:'#141414',color:'white'}}>
             <Typography>
                 © {format(new Date(),'yyyy')} Olim Jovliyev. All Right Reserved
             </Typography>
