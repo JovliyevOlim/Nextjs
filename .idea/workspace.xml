@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="107c5100-e9e4-4144-9db8-9e03cddc729f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/component/hero/hero.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/content/content.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/sidebar/sidebar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/footer/footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/footer/footer.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/navbar/navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/navbar/navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/theme.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,10 +31,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2eTZfQJ0r1hjmqaMqrtsHsF3l9s" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,12 +45,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Programming language/NextJS/nextjs/src",
+    "last_opened_file_path": "D:/Programming language/NextJS/nextjs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
     "ts.external.directory.path": "D:\\Programming language\\NextJS\\nextjs\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -66,6 +64,23 @@
       <recent name="D:\Programming language\NextJS\nextjs\src" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,7 +89,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711930630401</updated>
-      <workItem from="1711930631441" duration="12185000" />
+      <workItem from="1711930631441" duration="14808000" />
+      <workItem from="1712072409140" duration="45000" />
+      <workItem from="1712298808781" duration="3358000" />
     </task>
     <servers />
   </component>
