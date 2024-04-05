@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="107c5100-e9e4-4144-9db8-9e03cddc729f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/component/content/content.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/sidebar/sidebar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/content/content.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/content/content.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/hero/hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/hero/hero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/sidebar/sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/sidebar/sidebar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +90,7 @@
       <updated>1711930630401</updated>
       <workItem from="1711930631441" duration="14808000" />
       <workItem from="1712072409140" duration="45000" />
-      <workItem from="1712298808781" duration="3358000" />
+      <workItem from="1712298808781" duration="5318000" />
     </task>
     <servers />
   </component>
